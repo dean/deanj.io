@@ -1,0 +1,5 @@
+title: About This Site
+slug: about
+---
+This is a sample wok site, use to demonstrate that yes, it is easy to make
+a wok site.

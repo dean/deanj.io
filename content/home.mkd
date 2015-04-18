@@ -1,0 +1,4 @@
+title: Home
+url: /
+---
+This is the home page. It is kind of bare right now.

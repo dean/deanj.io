@@ -1,0 +1,3 @@
+title: Contact
+---
+You can call me at 555-555-5555, or by email at `noone@nowhere.foo`.
